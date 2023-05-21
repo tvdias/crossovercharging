@@ -1,0 +1,16 @@
+{
+    "name": "redis-stack-charge_request_redis-lambda-fn",
+    "version": "1.0.0",
+    "description": "To be completed - getting started text for the new project.",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "redis": "^4.6.6"
+    }
+  }
+  
